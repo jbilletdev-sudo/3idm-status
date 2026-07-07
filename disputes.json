@@ -1,3 +1,10 @@
 {
-  "disputes": []
+  "disputes": [
+    {
+      "serial": "999999",
+      "since": "2026-06-25",
+      "message": "TEST harnais — fenêtre ADV (accents : éàç).",
+      "level": 3
+    }
+  ]
 }
