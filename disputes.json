@@ -1,3 +1,10 @@
 {
-  "disputes": []
+  "disputes": [
+    {
+      "serial": "999999",
+      "since": "2026-06-25",
+      "message": "TEST — Merci de contacter 3IDM au sujet de la facture F2026-001.",
+      "delays": [ { "afterDays": 0, "seconds": 5 }, { "afterDays": 30, "seconds": 30 } ]
+    }
+  ]
 }
