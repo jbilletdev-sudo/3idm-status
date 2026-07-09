@@ -1,14 +1,3 @@
 {
-  "disputes": [
-    {
-      "serial": "359013",
-      "since": "2026-07-09",
-      "message": "Licence non payée !",
-      "level": 1,
-      "popup": true,
-      "post": true,
-      "created": "2026-07-09 14:46",
-      "createdBy": "ASUS-JB-3IDM"
-    }
-  ]
+  "disputes": []
 }
