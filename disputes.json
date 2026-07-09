@@ -1,5 +1,5 @@
 {
   "disputes": [
-    { "serial": "999999", "since": "2026-05-01", "message": "TEST post seul", "level": 2, "popup": false, "post": true }
+    { "serial": "999999", "since": "2026-05-01", "message": "TEST popup seule", "level": 2, "popup": true, "post": false }
   ]
 }
