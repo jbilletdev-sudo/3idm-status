@@ -1,5 +1,3 @@
 {
-  "disputes": [
-    { "serial": "999999", "since": "2026-05-01", "message": "TEST PostGate verrou.", "level": 2 }
-  ]
+  "disputes": []
 }
