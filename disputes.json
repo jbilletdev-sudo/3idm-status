@@ -5,6 +5,12 @@
       "since": "2026-07-09",
       "message": "TIP TOP",
       "level": 1
+    },
+    {
+      "serial": "216351",
+      "since": "2026-07-09",
+      "message": "Test 2",
+      "level": 2
     }
   ]
 }
