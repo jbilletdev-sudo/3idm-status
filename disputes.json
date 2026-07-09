@@ -1,12 +1,3 @@
 {
-  "disputes": [
-    {
-      "serial": "359013",
-      "since": "2026-07-09",
-      "message": "Ceci est un test.",
-      "level": 1,
-      "created": "2026-07-09 14:13",
-      "createdBy": "ASUS-JB-3IDM"
-    }
-  ]
+  "disputes": []
 }
