@@ -1,3 +1,14 @@
 {
-  "disputes": []
+  "disputes": [
+    {
+      "serial": "359013",
+      "since": "2026-07-10",
+      "message": "Blocage pour impayé. Merci de contacter 3IDM.",
+      "level": 1,
+      "popup": true,
+      "post": true,
+      "created": "2026-07-10 09:34",
+      "createdBy": "ASUS-JB-3IDM"
+    }
+  ]
 }
